@@ -4,7 +4,7 @@ The Mac File Lister script is a Bash script designed to list all files and folde
 
 Script Functionality
 
-1.	List Files in Specified Folders:
+- List Files in Specified Folders:
    
 	•	The script lists all files located in the following directories:
 	•	~/Desktop
@@ -13,29 +13,29 @@ Script Functionality
 	•	~/Pictures
 	•	The file paths are stored in files_list.txt.
 
-2.	List Folders in Specified Folders:
+- List Folders in Specified Folders:
    
 	•	It also lists all folders located in the above directories.
 	•	The folder paths are stored in folders_list.txt.
 
-3.	List Files and Folders on External Drives:
+- List Files and Folders on External Drives:
    
 	•	The script automatically detects all connected external drives and lists every file and folder on these drives.
 	•	The file paths are appended to files_list.txt, and folder paths are appended to folders_list.txt.
 
-4.	Logging:
+- Logging:
    
 	•	The script logs its start and end times, along with any errors encountered, in a debug.txt file on your Desktop.
 
 Usage
 
-1.	Running the Script:
+- Running the Script:
    
 	•	Save the script to a .sh file on your Mac.
 	•	Open Terminal and navigate to the directory where the script is saved.
  	•	Run the script.
 
-2.	Output Files:
+- Output Files:
      
 	•	After running the script, you will find three files on your Desktop:
 	•	files_list.txt: A list of all files in the specified directories and external drives.
