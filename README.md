@@ -42,4 +42,8 @@ Output Files:
 	•	folders_list.txt: A list of all folders in the specified directories and external drives.
 	•	debug.txt: A log file containing the script’s start and end times, as well as any errors encountered during execution.
 
+Contributing
+
+Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
+
 License This project is open-source and available under the MIT License.
